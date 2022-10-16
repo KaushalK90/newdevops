@@ -1,1 +1,2 @@
 This is merge conflict example one file
+again more content in the file
